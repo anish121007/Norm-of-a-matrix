@@ -65,4 +65,4 @@ print(norm_of_matrix)
 <img width="1193" height="218" alt="Screenshot 2026-06-02 065413" src="https://github.com/user-attachments/assets/1aced5b3-8080-416b-9b17-6d3be43e24bd" />
 
 ## Result
-Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
+Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified. 
